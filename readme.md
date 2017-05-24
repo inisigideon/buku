@@ -1,1 +1,1 @@
-init gi
+init gi inisigideon
