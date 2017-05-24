@@ -1,1 +1,1 @@
-init gi
+init git staging
